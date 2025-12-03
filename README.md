@@ -9,7 +9,7 @@
 
 <img src="https://i0.wp.com/bendetta.biz/wp-content/uploads/2015/06/icon_scrivener.png?fit=175%2C175&ssl=1" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/scrivener">
+<a href="https://mac-apps-install.github.io/.github/scrivener">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
